@@ -22,7 +22,7 @@ function validar() {
         list.appendChild(item)
         res.innerHTML = ''
 
-    }else {
+    } else {
         window.alert('Valor invalido')
     }
 }
