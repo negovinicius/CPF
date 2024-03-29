@@ -14,8 +14,6 @@ function inLista(n, l) {
     return l.indexOf(Number(n)) !== -1;
 }
 
-
-
 number.addEventListener('keypress', () => {
 
     let inputlength = number.value.length
